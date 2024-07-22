@@ -4,9 +4,11 @@ __pycache__/
 *.pyd
 .Python
 env/
+iaenv/
 venv/
 ENV/
 venv.bak/
+*.env
 *.env
 *.sqlite
 *.db

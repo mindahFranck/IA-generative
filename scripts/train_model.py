@@ -19,4 +19,4 @@ model.compile(optimizer=tf.keras.optimizers.Adam(learning_rate=0.001),
 
 model.fit(train_data, epochs=10)
 
-model.save('models/license_plate_detector.h5')
+# model.save('models/license_plate_detector.h5')

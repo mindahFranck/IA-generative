@@ -10,7 +10,7 @@ Ce projet utilise FastAPI pour créer une API permettant de détecter et génér
 2. creer un environnement virtuelle `pip install -r requirements.txt`
 3. lancer l'environnemet virtuel 
 `source env/bin/activate  # Pour Linux/Mac
- env\Scripts\activate     # Pour Windows`
+ iaenv\Scripts\activate     # Pour Windows`
 4. Installez les dépendances avec `pip install -r requirements.txt`.
 
 ## Utilisation
